@@ -188,6 +188,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/chetj/.local/share/nvim/site/pack/packer/start/vim-markdown",
     url = "https://github.com/tpope/vim-markdown"
+  },
+  vimtex = {
+    loaded = true,
+    path = "/home/chetj/.local/share/nvim/site/pack/packer/start/vimtex",
+    url = "https://github.com/lervag/vimtex"
   }
 }
 

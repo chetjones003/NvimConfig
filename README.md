@@ -19,7 +19,7 @@
 <h3 align="center">Neovim Lua Configuration</h3>
 
   <p align="center">
-    A simple, lightweight configuration of neovim without bloat.
+    My personal configuration of neovim. Simple and lightweight while trying to stick to default neovim as much as possible. Featuring plugins for editing markdown, latex, rust and python.
     <br />
     <a href="https://github.com/chetjones003/NvimConfig/issues">Report Bug</a>
     ·

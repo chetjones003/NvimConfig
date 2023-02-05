@@ -5,6 +5,7 @@ return require('packer').startup(function(use)
     use('savq/melange-nvim')
     use('mbbill/undotree')
     use('nvim-treesitter/nvim-treesitter', { run = ':TSUpdate' })
+    use('lervag/vimtex')
     use('tpope/vim-markdown')
     use({
         "iamcco/markdown-preview.nvim",
