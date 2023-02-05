@@ -6,6 +6,7 @@ return require('packer').startup(function(use)
     use('mbbill/undotree')
     use('nvim-treesitter/nvim-treesitter', { run = ':TSUpdate' })
     use('lervag/vimtex')
+    use 'voldikss/vim-floaterm'
     use('tpope/vim-markdown')
     use({
         "iamcco/markdown-preview.nvim",
