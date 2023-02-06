@@ -7,7 +7,6 @@ local cmp = require('cmp')
 
 lsp.setup_nvim_cmp({
     mapping = lsp.defaults.cmp_mappings({
-        ['<C-y>'] = cmp.mapping.complete(),
         ['<C-j>'] = cmp.mapping.select_next_item(),
         ['<C-k>'] = cmp.mapping.select_prev_item(),
         ['<Tab>'] = vim.NIL,
